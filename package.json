@@ -1,17 +1,18 @@
 {
   "name": "@themartiancompany/std__internal",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description":"The internal package for @std. Do not use this directly.",
   "keywords": [
     "deno",
+    "dogeos",
+    "evmfs",
     "jsr",
     "std",
     "themartiancompany",
-    "ur",
-    "dogeos"
+    "ur"
   ],
   "license": "AGPL-3.0-or-later",
-  "homepage": "https://jsr.io/@std/internal",
+  "homepage": "https://github.com/themartiancompany/deno-std-internal-bin",
   "funding": {
     "type": "patreon",
     "url": "https://patreon.com/tallero"
