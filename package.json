@@ -1,7 +1,15 @@
 {
   "name": "@themartiancompany/std__internal",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description":"The internal package for @std. Do not use this directly.",
+  "keywords": [
+    "deno",
+    "jsr",
+    "std",
+    "themartiancompany",
+    "ur",
+    "dogeos"
+  ],
   "homepage": "https://jsr.io/@std/internal",
   "funding": {
     "type": "patreon",
