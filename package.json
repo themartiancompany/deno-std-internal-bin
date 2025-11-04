@@ -2,6 +2,9 @@
   "name": "@themartiancompany/std__internal",
   "version": "1.0.12",
   "homepage": "https://jsr.io/@std/internal",
+  "bugs": {
+    "url": "https://github.com/themartiancompany/deno-std-internal-bin/issues"
+  },
   "type": "module",
   "dependencies": {},
   "exports": {
