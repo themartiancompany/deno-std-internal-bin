@@ -1,7 +1,11 @@
 {
   "name": "@themartiancompany/std__internal",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "homepage": "https://jsr.io/@std/internal",
+  "funding": {
+    "type": "patreon",
+    "url": "https://patreon.com/tallero"
+  },
   "bugs": {
     "url": "https://github.com/themartiancompany/deno-std-internal-bin/issues"
   },
