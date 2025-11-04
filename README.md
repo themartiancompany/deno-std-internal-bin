@@ -25,15 +25,20 @@
 The Deno Standard Library has moved from the
 NPM registry apparently and I'm not sure how to
 correctly build the module you find here from 
-source. I'll report it upstream I suppose.
+source.
+
+I'll report it upstream I suppose.
 Meanwhile I'm re-publishing the old working
 code.
 
 This package has been made available on the
 [NPM Registry](
-  https://www.npmjs.com/package/crash-js)
-
-as `@themartiancompany/std__internal`.
+  https://www.npmjs.com/package/@themartianocompany/std__internal)
+as `@themartiancompany/std__internal`
+because `@std/path` on
+[jsr](
+  https://jsr.io/@std/internal)
+doesn't include the javascript files.
 
 ```bash
 npm \
