@@ -1,6 +1,6 @@
 {
   "name": "@themartiancompany/std__internal",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description":"The internal package for @std. Do not use this directly.",
   "homepage": "https://jsr.io/@std/internal",
   "funding": {
